@@ -1,0 +1,233 @@
+[16:17:29,022] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserMoveToCmd <==> com.tinygame.cmdhandler.UserMoveToCmdHandler
+[16:17:29,027] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$WhoElseIsHereCmd <==> com.tinygame.cmdhandler.WhoElseIsHereCmdHandler
+[16:17:29,028] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserAttkCmd <==> com.tinygame.cmdhandler.UserAttkCmdHandler
+[16:17:29,029] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserEntryCmd <==> com.tinygame.cmdhandler.UserEntryCmdHandler
+[16:17:29,030] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserLoginCmd <==> com.tinygame.cmdhandler.UserLoginCmdHandler
+[16:17:29,073] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$SelectHeroResult <==> 16
+[16:17:29,076] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$SelectHeroCmd <==> 15
+[16:17:29,078] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserLoginResult <==> 14
+[16:17:29,079] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserLoginCmd <==> 13
+[16:17:29,081] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserDieResult <==> 12
+[16:17:29,082] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[16:17:29,083] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserAttkResult <==> 10
+[16:17:29,084] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[16:17:29,086] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserStopResult <==> 8
+[16:17:29,087] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserStopCmd <==> 7
+[16:17:29,088] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserQuitResult <==> 6
+[16:17:29,090] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[16:17:29,092] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[16:17:29,094] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[16:17:29,095] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[16:17:29,096] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserEntryResult <==> 1
+[16:17:29,098] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[16:17:30,210] [INFO] ServerMain.main --> 服务器启动成功
+[16:18:20,149] [INFO] UserLoginCmdHandler.lambda$handler$0 --> 当前线程====AsyncOperationProcessor
+[16:18:20,154] [INFO] LoginService.userLogin --> 登陆的线程，=AsyncOperationProcessor
+[16:18:20,509] [INFO] UserLoginCmdHandler.lambda$handler$0 --> 用户登陆成功, userId = 1, userName = q
+[17:25:36,905] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserMoveToCmd <==> com.tinygame.cmdhandler.UserMoveToCmdHandler
+[17:25:36,916] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$WhoElseIsHereCmd <==> com.tinygame.cmdhandler.WhoElseIsHereCmdHandler
+[17:25:36,919] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserAttkCmd <==> com.tinygame.cmdhandler.UserAttkCmdHandler
+[17:25:36,924] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserEntryCmd <==> com.tinygame.cmdhandler.UserEntryCmdHandler
+[17:25:36,925] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserLoginCmd <==> com.tinygame.cmdhandler.UserLoginCmdHandler
+[17:25:36,973] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$SelectHeroResult <==> 16
+[17:25:36,978] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$SelectHeroCmd <==> 15
+[17:25:36,979] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserLoginResult <==> 14
+[17:25:36,982] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserLoginCmd <==> 13
+[17:25:36,984] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserDieResult <==> 12
+[17:25:36,986] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[17:25:36,988] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserAttkResult <==> 10
+[17:25:36,989] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[17:25:36,991] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserStopResult <==> 8
+[17:25:36,994] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserStopCmd <==> 7
+[17:25:36,995] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserQuitResult <==> 6
+[17:25:36,998] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[17:25:37,000] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[17:25:37,003] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[17:25:37,005] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[17:25:37,007] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserEntryResult <==> 1
+[17:25:37,009] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[17:25:37,997] [INFO] ServerMain.main --> 服务器启动成功
+[17:27:14,792] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserMoveToCmd <==> com.tinygame.cmdhandler.UserMoveToCmdHandler
+[17:27:14,799] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$WhoElseIsHereCmd <==> com.tinygame.cmdhandler.WhoElseIsHereCmdHandler
+[17:27:14,801] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserAttkCmd <==> com.tinygame.cmdhandler.UserAttkCmdHandler
+[17:27:14,804] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserEntryCmd <==> com.tinygame.cmdhandler.UserEntryCmdHandler
+[17:27:14,807] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserLoginCmd <==> com.tinygame.cmdhandler.UserLoginCmdHandler
+[17:27:14,873] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$SelectHeroResult <==> 16
+[17:27:14,879] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$SelectHeroCmd <==> 15
+[17:27:14,882] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserLoginResult <==> 14
+[17:27:14,884] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserLoginCmd <==> 13
+[17:27:14,885] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserDieResult <==> 12
+[17:27:14,886] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[17:27:14,888] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserAttkResult <==> 10
+[17:27:14,889] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[17:27:14,891] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserStopResult <==> 8
+[17:27:14,892] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserStopCmd <==> 7
+[17:27:14,897] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserQuitResult <==> 6
+[17:27:14,900] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[17:27:14,902] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[17:27:14,904] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[17:27:14,906] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[17:27:14,907] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserEntryResult <==> 1
+[17:27:14,908] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[17:27:16,091] [INFO] ServerMain.main --> 服务器启动成功
+[17:33:13,400] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$WhoElseIsHereCmd <==> com.tinygame.cmdhandler.WhoElseIsHereCmdHandler
+[17:33:13,407] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserAttkCmd <==> com.tinygame.cmdhandler.UserAttkCmdHandler
+[17:33:13,410] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserEntryCmd <==> com.tinygame.cmdhandler.UserEntryCmdHandler
+[17:33:13,412] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserLoginCmd <==> com.tinygame.cmdhandler.UserLoginCmdHandler
+[17:33:13,413] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserMoveToCmd <==> com.tinygame.cmdhandler.UserMoveToCmdHandler
+[17:33:13,493] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$SelectHeroResult <==> 16
+[17:33:13,497] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$SelectHeroCmd <==> 15
+[17:33:13,500] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserLoginResult <==> 14
+[17:33:13,503] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserLoginCmd <==> 13
+[17:33:13,506] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserDieResult <==> 12
+[17:33:13,510] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[17:33:13,512] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserAttkResult <==> 10
+[17:33:13,514] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[17:33:13,516] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserStopResult <==> 8
+[17:33:13,518] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserStopCmd <==> 7
+[17:33:13,521] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserQuitResult <==> 6
+[17:33:13,526] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[17:33:13,528] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[17:33:13,531] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[17:33:13,532] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[17:33:13,534] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserEntryResult <==> 1
+[17:33:13,536] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[17:33:14,554] [INFO] ServerMain.main --> 服务器启动成功
+[17:35:28,893] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserMoveToCmd <==> com.tinygame.cmdhandler.UserMoveToCmdHandler
+[17:35:28,897] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$WhoElseIsHereCmd <==> com.tinygame.cmdhandler.WhoElseIsHereCmdHandler
+[17:35:28,898] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserAttkCmd <==> com.tinygame.cmdhandler.UserAttkCmdHandler
+[17:35:28,899] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserEntryCmd <==> com.tinygame.cmdhandler.UserEntryCmdHandler
+[17:35:28,901] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserLoginCmd <==> com.tinygame.cmdhandler.UserLoginCmdHandler
+[17:35:28,952] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$SelectHeroResult <==> 16
+[17:35:28,956] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$SelectHeroCmd <==> 15
+[17:35:28,957] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserLoginResult <==> 14
+[17:35:28,959] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserLoginCmd <==> 13
+[17:35:28,960] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserDieResult <==> 12
+[17:35:28,961] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[17:35:28,963] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserAttkResult <==> 10
+[17:35:28,964] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[17:35:28,966] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserStopResult <==> 8
+[17:35:28,967] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserStopCmd <==> 7
+[17:35:28,969] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserQuitResult <==> 6
+[17:35:28,971] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[17:35:28,972] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[17:35:28,974] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[17:35:28,976] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[17:35:28,977] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserEntryResult <==> 1
+[17:35:28,978] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[17:35:29,962] [INFO] ServerMain.main --> 服务器启动成功
+[17:35:38,219] [INFO] UserLoginCmdHandler.handler --> 用户登陆username=w,password=1
+[17:36:51,191] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserMoveToCmd <==> com.tinygame.cmdhandler.UserMoveToCmdHandler
+[17:36:51,194] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$WhoElseIsHereCmd <==> com.tinygame.cmdhandler.WhoElseIsHereCmdHandler
+[17:36:51,195] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserAttkCmd <==> com.tinygame.cmdhandler.UserAttkCmdHandler
+[17:36:51,197] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserEntryCmd <==> com.tinygame.cmdhandler.UserEntryCmdHandler
+[17:36:51,198] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserLoginCmd <==> com.tinygame.cmdhandler.UserLoginCmdHandler
+[17:36:51,258] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$SelectHeroResult <==> 16
+[17:36:51,261] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$SelectHeroCmd <==> 15
+[17:36:51,264] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserLoginResult <==> 14
+[17:36:51,266] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserLoginCmd <==> 13
+[17:36:51,267] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserDieResult <==> 12
+[17:36:51,269] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[17:36:51,271] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserAttkResult <==> 10
+[17:36:51,272] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[17:36:51,274] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserStopResult <==> 8
+[17:36:51,275] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserStopCmd <==> 7
+[17:36:51,277] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserQuitResult <==> 6
+[17:36:51,280] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[17:36:51,281] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[17:36:51,283] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[17:36:51,285] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[17:36:51,286] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserEntryResult <==> 1
+[17:36:51,287] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[17:36:52,276] [INFO] ServerMain.main --> 服务器启动成功
+[17:36:58,087] [INFO] UserLoginCmdHandler.handler --> 用户登陆username=w,password=1
+[17:36:58,088] [INFO] LoginService.userLogin --> 用户登陆username={},password={}
+[17:37:20,600] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$WhoElseIsHereCmd <==> com.tinygame.cmdhandler.WhoElseIsHereCmdHandler
+[17:37:20,608] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserLoginCmd <==> com.tinygame.cmdhandler.UserLoginCmdHandler
+[17:37:20,610] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserAttkCmd <==> com.tinygame.cmdhandler.UserAttkCmdHandler
+[17:37:20,614] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserMoveToCmd <==> com.tinygame.cmdhandler.UserMoveToCmdHandler
+[17:37:20,616] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserEntryCmd <==> com.tinygame.cmdhandler.UserEntryCmdHandler
+[17:37:20,683] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$SelectHeroResult <==> 16
+[17:37:20,688] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$SelectHeroCmd <==> 15
+[17:37:20,691] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserLoginResult <==> 14
+[17:37:20,694] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserLoginCmd <==> 13
+[17:37:20,696] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserDieResult <==> 12
+[17:37:20,699] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[17:37:20,701] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserAttkResult <==> 10
+[17:37:20,704] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[17:37:20,708] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserStopResult <==> 8
+[17:37:20,708] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserMoveToCmd <==> com.tinygame.cmdhandler.UserMoveToCmdHandler
+[17:37:20,711] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserStopCmd <==> 7
+[17:37:20,714] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$WhoElseIsHereCmd <==> com.tinygame.cmdhandler.WhoElseIsHereCmdHandler
+[17:37:20,715] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserAttkCmd <==> com.tinygame.cmdhandler.UserAttkCmdHandler
+[17:37:20,717] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserEntryCmd <==> com.tinygame.cmdhandler.UserEntryCmdHandler
+[17:37:20,715] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserQuitResult <==> 6
+[17:37:20,719] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserLoginCmd <==> com.tinygame.cmdhandler.UserLoginCmdHandler
+[17:37:20,720] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[17:37:20,724] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[17:37:20,739] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[17:37:20,745] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[17:37:20,748] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserEntryResult <==> 1
+[17:37:20,751] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[17:37:20,802] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$SelectHeroResult <==> 16
+[17:37:20,807] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$SelectHeroCmd <==> 15
+[17:37:20,810] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserLoginResult <==> 14
+[17:37:20,812] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserLoginCmd <==> 13
+[17:37:20,815] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserDieResult <==> 12
+[17:37:20,817] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[17:37:20,819] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserAttkResult <==> 10
+[17:37:20,822] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[17:37:20,825] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserStopResult <==> 8
+[17:37:20,827] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserStopCmd <==> 7
+[17:37:20,831] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserQuitResult <==> 6
+[17:37:20,837] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[17:37:20,841] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[17:37:20,844] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[17:37:20,847] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[17:37:20,852] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserEntryResult <==> 1
+[17:37:20,855] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[17:37:22,145] [INFO] ServerMain.main --> 服务器启动成功
+[17:37:29,140] [INFO] UserLoginCmdHandler.handler --> 用户登陆username=w,password=1
+[17:37:29,143] [INFO] LoginService.userLogin --> 用户登陆username=w,password=1
+[17:38:12,213] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserMoveToCmd <==> com.tinygame.cmdhandler.UserMoveToCmdHandler
+[17:38:12,221] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$WhoElseIsHereCmd <==> com.tinygame.cmdhandler.WhoElseIsHereCmdHandler
+[17:38:12,222] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserAttkCmd <==> com.tinygame.cmdhandler.UserAttkCmdHandler
+[17:38:12,223] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserEntryCmd <==> com.tinygame.cmdhandler.UserEntryCmdHandler
+[17:38:12,225] [INFO] CmdHandlerFactory.init --> 关联 com.tinygame.msg.GameMsgProtocol$UserLoginCmd <==> com.tinygame.cmdhandler.UserLoginCmdHandler
+[17:38:12,319] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$SelectHeroResult <==> 16
+[17:38:12,323] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$SelectHeroCmd <==> 15
+[17:38:12,326] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserLoginResult <==> 14
+[17:38:12,329] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserLoginCmd <==> 13
+[17:38:12,335] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserDieResult <==> 12
+[17:38:12,337] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserSubtractHpResult <==> 11
+[17:38:12,340] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserAttkResult <==> 10
+[17:38:12,342] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserAttkCmd <==> 9
+[17:38:12,344] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserStopResult <==> 8
+[17:38:12,350] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserStopCmd <==> 7
+[17:38:12,353] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserQuitResult <==> 6
+[17:38:12,357] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserMoveToResult <==> 5
+[17:38:12,359] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserMoveToCmd <==> 4
+[17:38:12,361] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$WhoElseIsHereResult <==> 3
+[17:38:12,367] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$WhoElseIsHereCmd <==> 2
+[17:38:12,370] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserEntryResult <==> 1
+[17:38:12,372] [INFO] GameMsgRecognizer.init --> com.tinygame.msg.GameMsgProtocol$UserEntryCmd <==> 0
+[17:38:13,641] [INFO] ServerMain.main --> 服务器启动成功
+[17:38:16,393] [INFO] UserLoginCmdHandler.handler --> 用户登陆username=w,password=1
+[17:38:16,404] [INFO] LoginService$AsyncGetUser.doAsync --> 登陆的线程，=AsyncOperationProcessor
+[17:38:16,700] [INFO] UserLoginCmdHandler.lambda$handler$0 --> 用户登陆成功, userId = 2, userName = w
+[17:38:17,751] [INFO] UserAttkCmdHandler.handler --> 当前线程为==MainThreadProcessor
+[17:38:17,917] [INFO] UserAttkCmdHandler.handler --> 当前线程为==MainThreadProcessor
+[17:38:18,105] [INFO] UserAttkCmdHandler.handler --> 当前线程为==MainThreadProcessor
+[17:38:18,921] [INFO] UserAttkCmdHandler.handler --> 当前线程为==MainThreadProcessor
+[17:38:19,073] [INFO] UserAttkCmdHandler.handler --> 当前线程为==MainThreadProcessor
+[17:38:49,918] [INFO] UserLoginCmdHandler.handler --> 用户登陆username=q,password=1
+[17:38:49,918] [INFO] LoginService$AsyncGetUser.doAsync --> 登陆的线程，=AsyncOperationProcessor
+[17:38:49,920] [INFO] UserLoginCmdHandler.lambda$handler$0 --> 用户登陆成功, userId = 1, userName = q
+[17:38:52,630] [INFO] UserAttkCmdHandler.handler --> 当前线程为==MainThreadProcessor
+[17:38:52,793] [INFO] UserAttkCmdHandler.handler --> 当前线程为==MainThreadProcessor
+[17:38:53,296] [INFO] UserAttkCmdHandler.handler --> 当前线程为==MainThreadProcessor
+[17:38:53,458] [INFO] UserAttkCmdHandler.handler --> 当前线程为==MainThreadProcessor
+[17:38:57,084] [INFO] UserAttkCmdHandler.handler --> 当前线程为==MainThreadProcessor
+[17:38:58,397] [INFO] UserAttkCmdHandler.handler --> 当前线程为==MainThreadProcessor
+[17:38:58,576] [INFO] UserAttkCmdHandler.handler --> 当前线程为==MainThreadProcessor
+[17:38:58,729] [INFO] UserAttkCmdHandler.handler --> 当前线程为==MainThreadProcessor
