@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d3ae04e-feeb-48c7-adab-d1eb334305b8" name="Default Changelist" comment="增加MainThreadProse使用单线程解决并发问题，" />
+    <list id="acbe38de-cb0e-45b4-895f-1dae6aac0be9" name="New changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/lzwangshida/project.git" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$PROJECT_DIR$/../../../maven/repository" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../maven/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1V8x2lsPLw7TDtP256fMHV4X3J4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesTree.GroupingKeys" value="module&#10;directory" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager" selected="Application.ServerMain">
+    <configuration name="ServerMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tinygame.server.ServerMain" />
+      <module name="herostory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tinygame.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.test" />
+      <module name="herostory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tinygame.test.test" />
+      <module name="herostory" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tinygame.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ServerMain" />
+        <item itemvalue="Application.test (1)" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d3ae04e-feeb-48c7-adab-d1eb334305b8" name="Default Changelist" comment="" />
+      <changelist id="acbe38de-cb0e-45b4-895f-1dae6aac0be9" name="New changelist" comment="" />
+      <created>1576648318167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576648318167</updated>
+      <workItem from="1576648319367" duration="2281000" />
+      <workItem from="1577069011022" duration="18359000" />
+      <workItem from="1577409142668" duration="3406000" />
+      <workItem from="1577434102733" duration="2406000" />
+      <workItem from="1577514467093" duration="7530000" />
+      <workItem from="1577530237380" duration="1737000" />
+      <workItem from="1577583836343" duration="818000" />
+      <workItem from="1577584679151" duration="19202000" />
+      <workItem from="1577629335091" duration="1255000" />
+      <workItem from="1577868842202" duration="5839000" />
+      <workItem from="1577877190138" duration="8628000" />
+      <workItem from="1597992135985" duration="2231000" />
+      <workItem from="1597995537771" duration="1252000" />
+    </task>
+    <task id="LOCAL-00001" summary="完成代码重构，泛型，反射------------解耦">
+      <created>1577095261970</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577095261970</updated>
+    </task>
+    <task id="LOCAL-00002" summary="完成代码重构，泛型，反射------------解耦">
+      <created>1577095428494</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1577095428494</updated>
+    </task>
+    <task id="LOCAL-00003" summary="完成代码重构，泛型，反射------------解耦">
+      <created>1577095445292</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577095445292</updated>
+    </task>
+    <task id="LOCAL-00004" summary="使用包扫描器，重构factory，增加攻击消息，和掉血消息">
+      <created>1577530565184</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577530565184</updated>
+    </task>
+    <task id="LOCAL-00005" summary="使用包扫描器，重构factory，增加攻击消息，和掉血消息">
+      <created>1577530626503</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1577530626503</updated>
+    </task>
+    <task id="LOCAL-00006" summary="增加moveState，增加userDieResult">
+      <created>1577633962977</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1577633962978</updated>
+    </task>
+    <task id="LOCAL-00007" summary="增加MainThreadProcessor类，使用单线程解决并发问题，">
+      <created>1577873090966</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1577873090966</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="structure">
+                    <value>
+                      <list>
+                        <option value="dir:/Volumes/D/java/ideaProject/herostory" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="完成代码重构，泛型，反射------------解耦" />
+    <MESSAGE value="使用包扫描器，重构factory，增加攻击消息，和掉血消息" />
+    <MESSAGE value="增加moveState，增加userDieResult" />
+    <MESSAGE value="增加MainThreadProcessor类，使用单线程解决并发问题，" />
+    <option name="LAST_COMMIT_MESSAGE" value="增加MainThreadProcessor类，使用单线程解决并发问题，" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="140" y="133" width="1200" height="608" key="DiffContextDialog" timestamp="1597996766031">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="140" y="133" width="1200" height="608" key="DiffContextDialog/0.23.1440.819@0.23.1440.819" timestamp="1597996766031" />
+    <state width="1358" height="208" key="GridCell.Tab.0.bottom" timestamp="1597992716740">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1597992491719" />
+    <state width="1358" height="208" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1597992716740" />
+    <state width="1358" height="208" key="GridCell.Tab.0.center" timestamp="1597992716739">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1597992491718" />
+    <state width="1358" height="208" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1597992716739" />
+    <state width="1358" height="208" key="GridCell.Tab.0.left" timestamp="1597992716738">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1597992491717" />
+    <state width="1358" height="208" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1597992716738" />
+    <state width="1358" height="208" key="GridCell.Tab.0.right" timestamp="1597992716739">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state width="1358" height="208" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1597992491718" />
+    <state width="1358" height="208" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1597992716739" />
+    <state x="405" y="166" key="Maven.ArtifactSearchDialog" timestamp="1597992694671">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="405" y="166" key="Maven.ArtifactSearchDialog/0.23.1440.819@0.23.1440.819" timestamp="1597992694671" />
+    <state x="506" y="146" key="RollbackChangesDialog" timestamp="1597996443169">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="506" y="146" key="RollbackChangesDialog/0.23.1440.819@0.23.1440.819" timestamp="1597996443169" />
+    <state x="241" y="74" key="SettingsEditor" timestamp="1597995518027">
+      <screen x="0" y="23" width="1440" height="816" />
+    </state>
+    <state x="241" y="74" key="SettingsEditor/0.23.1440.816@0.23.1440.816" timestamp="1597995518027" />
+    <state x="578" y="313" key="VCS.EditChangelistDialog" timestamp="1597996774521">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="578" y="313" key="VCS.EditChangelistDialog/0.23.1440.819@0.23.1440.819" timestamp="1597996774521" />
+    <state x="340" y="177" key="Vcs.Push.Dialog.v2" timestamp="1597996929325">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="340" y="177" key="Vcs.Push.Dialog.v2/0.23.1440.819@0.23.1440.819" timestamp="1597996929325" />
+    <state x="576" y="305" key="git4idea.rebase.GitRebaseDialog" timestamp="1597996619350">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="576" y="305" key="git4idea.rebase.GitRebaseDialog/0.23.1440.819@0.23.1440.819" timestamp="1597996619350" />
+    <state x="532" y="333" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1597996893546">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="532" y="333" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.819@0.23.1440.819" timestamp="1597996893546" />
+  </component>
+</project>
